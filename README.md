@@ -2,8 +2,7 @@
 - 👀 I’m interested in Nature projects
 - 🌱 I’m currently learning JAVA, HTML, CSS AND JAVASCRIPT although I am putting the hgihest priority in JAVA . 
 - 💞️ I’m looking to collaborate on making Educational Websites.
-- 📫 How to reach me :
-      Email : hazim_jamal@yahoo.co.uk
+- 📫 This will be my email : hazim_jamal@yahoo.co.uk
   
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NinjaMorph11
 - 👀 I’m interested in Nature projects
-- 🌱 I’m currently learning JAVA, HTML, CSS AND JAVASCRIPT although I am putting the hgihest priority in JAVA . 
+- 🌱 I’m currently learning PYTHON, HTML, CSS AND JAVASCRIPT although I am putting the highhest priority in PYTHON . 
 - 💞️ I’m looking to collaborate on making Educational Websites.
 - 📫 This will be my email : hazim_jamal@yahoo.co.uk
   

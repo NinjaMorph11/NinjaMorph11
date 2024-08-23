@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @NinjaMorph11
-- 🌱 I’m currently learning PYTHON, HTML, CSS AND JAVASCRIPT although I am putting the highhest priority in PYTHON . 
-- 💞️ I’m looking to collaborate on making Educational Websites.
-- 📫 This will be my email : hazim_jamal@yahoo.co.uk
+
   
 
 <!---
